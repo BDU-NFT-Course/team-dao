@@ -12,8 +12,7 @@ DApp to be used by a team of students to select ideas for a capstone project.
 
 ## Repository description
 This repository contains the smart contract for the Team DAO Token - TDT.  
-
-[TDT Token contract on Rinkeby](https://rinkeby.etherscan.io/address/0x3E2c1D9D8dE5F5C6Ea84104391083E5Df224B072) 
+* [TDT Token contract on Rinkeby](https://rinkeby.etherscan.io/address/0x3E2c1D9D8dE5F5C6Ea84104391083E5Df224B072) 
 
 
 
