@@ -1,4 +1,6 @@
 .secrets.json
+.secrets-pinata.json
+.secrets-polygon.json
 node_modules
 .env
 coverage
