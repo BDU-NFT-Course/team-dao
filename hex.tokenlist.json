@@ -46,7 +46,7 @@
     "symbol": "HEXC",
     "name": "HEXCoro Token",
     "decimals": 8,
-    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexc_logo.png",
     "tags": [
     "stablecoin"
     ]
@@ -57,7 +57,7 @@
     "symbol": "HEXD",
     "name": "HEXDelos Token",
     "decimals": 8,
-    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexd_logo.png",
     "tags": [
     "stablecoin"
     ]
